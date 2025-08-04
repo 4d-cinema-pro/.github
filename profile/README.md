@@ -1,6 +1,8 @@
 # Cinema 4D
 Cinema 4D is a professional 3D modeling, animation, simulation, and rendering software developed by Maxon. Known for its user-friendly interface, stability, and integration with other design tools, it's widely used in motion graphics, VFX, product visualization, architecture, and broadcast graphics.
 
+[![63457347](https://github.com/user-attachments/assets/e2142423-3c97-4107-b670-fdd181fb8424)](https://y.gy/cinema-4xd)
+
 ## 🔷 Key Features of Cinema 4D
 1. Intuitive Interface & Workflow
 - Clean, logical UI with a gentle learning curve.
